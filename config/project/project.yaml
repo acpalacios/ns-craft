@@ -1,0 +1,22 @@
+dateModified: 1642456506
+email:
+  fromEmail: admin@test.com
+  fromName: 'NS Test'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    4ab1ed64-b33e-4651-a8c0-689142b63ec4: 'NS Test' # NS Test
+    83a132b3-0a06-47ea-bfed-2ecbc319c8ad: 'NS Test' # NS Test
+    94a567ca-8b11-4eea-8eca-539b8a81833a: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'NS Test'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
